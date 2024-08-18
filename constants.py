@@ -1,6 +1,6 @@
 login_credentials = {
-    'username': '9876543211',
-    'password': '12345'
+    'username': '',
+    'password': ''
 }
 
 from playwright.sync_api import sync_playwright
